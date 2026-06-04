@@ -1,0 +1,287 @@
+# Minecraft launcher log started at 2026-06-03 20:22:08
+# Profile: irons nouveau 
+
+
+[20:22:10] [main] [cpw.mods.modlauncher.Launcher/INFO]: ModLauncher running: args [--username, Flogge1, --version, 1.20.1, --gameDir, C:\Users\iancn\AppData\Roaming\ModrinthApp\profiles\irons nouveau, --assetsDir, C:\Users\iancn\AppData\Roaming\ModrinthApp\meta\assets, --assetIndex, 5, --uuid, a6ad59bc2de745fdbf9d0b64c42d4910, --accessToken, ❄❄❄❄❄❄❄❄, --clientId, c4502edb-87c6-40cb-b595-64a280cf8906, --xuid, 0, --userType, msa, --versionType, release, --width, 854, --height, 480, --launchTarget, forgeclient, --fml.forgeVersion, 47.4.20, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[20:22:10] [main] [cpw.mods.modlauncher.Launcher/INFO]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.17 by Azul Systems, Inc.; OS Windows 11 arch amd64 version 10.0
+[20:22:10] [main] [net.minecraftforge.fml.loading.ImmediateWindowHandler/INFO]: Loading ImmediateWindowProvider fmlearlywindow
+[20:22:10] [main] [EARLYDISPLAY/INFO]: Trying GL version 4.6
+[20:22:12] [main] [EARLYDISPLAY/INFO]: Requested GL version 4.6 got version 4.6
+[20:22:12] [main] [mixin/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/iancn/AppData/Roaming/ModrinthApp/meta/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%23152!/ Service=ModLauncher Env=CLIENT
+[20:22:12] [pool-2-thread-1] [EARLYDISPLAY/INFO]: GL info: Intel(R) RaptorLake-S Mobile Graphics Controller GL version 4.6.0 - Build 32.0.101.7084, Intel
+[20:22:12] [main] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file architectury-9.2.14-forge.jar of type MOD with provider {mods folder locator at C:\Users\iancn\AppData\Roaming\ModrinthApp\profiles\irons nouveau\mods}
+[20:22:12] [main] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file ars_n_spells-2.0.0.jar of type MOD with provider {mods folder locator at C:\Users\iancn\AppData\Roaming\ModrinthApp\profiles\irons nouveau\mods}
+[20:22:12] [main] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file ars_nouveau-1.20.1-4.12.7-all.jar of type MOD with provider {mods folder locator at C:\Users\iancn\AppData\Roaming\ModrinthApp\profiles\irons nouveau\mods}
+[20:22:12] [main] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file curios-forge-5.14.1+1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\iancn\AppData\Roaming\ModrinthApp\profiles\irons nouveau\mods}
+[20:22:12] [main] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file geckolib-forge-1.20.1-4.8.3.jar of type MOD with provider {mods folder locator at C:\Users\iancn\AppData\Roaming\ModrinthApp\profiles\irons nouveau\mods}
+[20:22:12] [main] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file irons_lib-1.20.1-1.0.2.jar of type MOD with provider {mods folder locator at C:\Users\iancn\AppData\Roaming\ModrinthApp\profiles\irons nouveau\mods}
+[20:22:12] [main] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file irons_spellbooks-1.20.1-3.15.6.jar of type MOD with provider {mods folder locator at C:\Users\iancn\AppData\Roaming\ModrinthApp\profiles\irons nouveau\mods}
+[20:22:12] [main] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file irons_spells_js-1.20.1-6.5-3.14-r2-release.jar of type MOD with provider {mods folder locator at C:\Users\iancn\AppData\Roaming\ModrinthApp\profiles\irons nouveau\mods}
+[20:22:12] [main] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file kubejs-forge-2001.6.5-build.26.jar of type MOD with provider {mods folder locator at C:\Users\iancn\AppData\Roaming\ModrinthApp\profiles\irons nouveau\mods}
+[20:22:12] [main] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file player-animation-lib-forge-1.0.2-rc1+1.20.jar of type MOD with provider {mods folder locator at C:\Users\iancn\AppData\Roaming\ModrinthApp\profiles\irons nouveau\mods}
+[20:22:12] [main] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file rhino-forge-2001.2.3-build.10.jar of type MOD with provider {mods folder locator at C:\Users\iancn\AppData\Roaming\ModrinthApp\profiles\irons nouveau\mods}
+[20:22:12] [main] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/WARN]: Mod file C:\Users\iancn\AppData\Roaming\ModrinthApp\meta\libraries\net\minecraftforge\fmlcore\1.20.1-47.4.20\fmlcore-1.20.1-47.4.20.jar is missing mods.toml file
+[20:22:12] [main] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/WARN]: Mod file C:\Users\iancn\AppData\Roaming\ModrinthApp\meta\libraries\net\minecraftforge\javafmllanguage\1.20.1-47.4.20\javafmllanguage-1.20.1-47.4.20.jar is missing mods.toml file
+[20:22:12] [main] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/WARN]: Mod file C:\Users\iancn\AppData\Roaming\ModrinthApp\meta\libraries\net\minecraftforge\lowcodelanguage\1.20.1-47.4.20\lowcodelanguage-1.20.1-47.4.20.jar is missing mods.toml file
+[20:22:12] [main] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/WARN]: Mod file C:\Users\iancn\AppData\Roaming\ModrinthApp\meta\libraries\net\minecraftforge\mclanguage\1.20.1-47.4.20\mclanguage-1.20.1-47.4.20.jar is missing mods.toml file
+[20:22:12] [main] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file fmlcore-1.20.1-47.4.20.jar of type LIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@aa21042
+[20:22:12] [main] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file javafmllanguage-1.20.1-47.4.20.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@aa21042
+[20:22:12] [main] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file lowcodelanguage-1.20.1-47.4.20.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@aa21042
+[20:22:12] [main] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file mclanguage-1.20.1-47.4.20.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@aa21042
+[20:22:12] [main] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file client-1.20.1-20230612.114412-srg.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@aa21042
+[20:22:12] [main] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file forge-1.20.1-47.4.20-universal.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@aa21042
+[20:22:12] [main] [net.minecraftforge.jarjar.selection.JarSelector/WARN]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File:
+[20:22:12] [main] [net.minecraftforge.jarjar.selection.JarSelector/WARN]: Attempted to select a dependency jar for JarJar which was passed in as source: geckolib. Using Mod File: C:\Users\iancn\AppData\Roaming\ModrinthApp\profiles\irons nouveau\mods\geckolib-forge-1.20.1-4.8.3.jar
+[20:22:12] [main] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/INFO]: Found 3 dependencies adding them to mods collection
+[20:22:12] [main] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file mixinextras-forge-0.2.0-beta.8.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@1b005a0b
+[20:22:12] [main] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file mclib-20.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@1b005a0b
+[20:22:12] [main] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file MixinExtras-0.4.1.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@1b005a0b
+[20:22:14] [main] [mixin/INFO]: Compatibility level set to JAVA_17
+[20:22:14] [main] [cpw.mods.modlauncher.LaunchServiceHandler/INFO]: Launching target 'forgeclient' with arguments [--version, 1.20.1, --gameDir, C:\Users\iancn\AppData\Roaming\ModrinthApp\profiles\irons nouveau, --assetsDir, C:\Users\iancn\AppData\Roaming\ModrinthApp\meta\assets, --uuid, a6ad59bc2de745fdbf9d0b64c42d4910, --username, Flogge1, --assetIndex, 5, --accessToken, ❄❄❄❄❄❄❄❄, --clientId, c4502edb-87c6-40cb-b595-64a280cf8906, --xuid, 0, --userType, msa, --versionType, release, --width, 854, --height, 480]
+[20:22:14] [main] [mixin/WARN]: Error loading class: com/probejs/specials/special/FormatterRegistry (java.lang.ClassNotFoundException: com.probejs.specials.special.FormatterRegistry)
+[20:22:14] [main] [mixin/WARN]: Error loading class: com/probejs/docs/formatter/NameResolver (java.lang.ClassNotFoundException: com.probejs.docs.formatter.NameResolver)
+[20:22:14] [main] [mixin/WARN]: Error loading class: com/probejs/specials/SnippetCompiler$KubeDump (java.lang.ClassNotFoundException: com.probejs.specials.SnippetCompiler$KubeDump)
+[20:22:14] [main] [mixin/WARN]: Error loading class: dev/emi/emi/EmiUtil (java.lang.ClassNotFoundException: dev.emi.emi.EmiUtil)
+[20:22:14] [main] [mixin/WARN]: Error loading class: mezz/modnametooltip/TooltipEventHandler (java.lang.ClassNotFoundException: mezz.modnametooltip.TooltipEventHandler)
+[20:22:14] [main] [mixin/WARN]: Error loading class: me/shedaniel/rei/impl/client/ClientHelperImpl (java.lang.ClassNotFoundException: me.shedaniel.rei.impl.client.ClientHelperImpl)
+[20:22:15] [main] [MixinExtras|Service/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[20:22:19] [Datafixer Bootstrap] [com.mojang.datafixers.DataFixerBuilder/INFO]: 188 Datafixer optimizations took 156 milliseconds
+[20:22:21] [Render thread] [net.minecraft.server.packs.VanillaPackResourcesBuilder/WARN]: Assets URL 'union:/C:/Users/iancn/AppData/Roaming/ModrinthApp/meta/libraries/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar%23180!/assets/.mcassetsroot' uses unexpected schema
+[20:22:21] [Render thread] [net.minecraft.server.packs.VanillaPackResourcesBuilder/WARN]: Assets URL 'union:/C:/Users/iancn/AppData/Roaming/ModrinthApp/meta/libraries/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar%23180!/data/.mcassetsroot' uses unexpected schema
+[20:22:21] [Render thread] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20:22:21] [Render thread] [net.minecraft.client.Minecraft/INFO]: Setting user: Flogge1
+[20:22:21] [Render thread] [net.minecraft.client.Minecraft/INFO]: Backend library: LWJGL version 3.3.1 build 7
+[20:22:21] [Render thread] [KubeJS/INFO]: Loaded client.properties
+[20:22:21] [modloading-worker-0] [com.otectus.arsnspells.util.StartupValidator/INFO]: ========================================
+[20:22:21] [modloading-worker-0] [com.otectus.arsnspells.util.StartupValidator/INFO]: Ars 'n' Spells - Startup Validation
+[20:22:21] [modloading-worker-0] [com.otectus.arsnspells.util.StartupValidator/INFO]: ========================================
+[20:22:21] [modloading-worker-0] [com.otectus.arsnspells.util.StartupValidator/INFO]: OK Ars Nouveau detected
+[20:22:21] [modloading-worker-0] [com.otectus.arsnspells.util.StartupValidator/INFO]: OK Iron's Spellbooks detected (optional)
+[20:22:21] [modloading-worker-0] [com.otectus.arsnspells.util.StartupValidator/INFO]: OK Java version: 17.0.17 (compatible)
+[20:22:22] [modloading-worker-0] [net.minecraftforge.common.ForgeMod/INFO]: Forge mod loading, version 47.4.20, for MC 1.20.1 with MCP 20230612.114412
+[20:22:22] [modloading-worker-0] [net.minecraftforge.common.MinecraftForge/INFO]: MinecraftForge v47.4.20 Initialized
+[20:22:22] [modloading-worker-0] [com.otectus.arsnspells.util.StartupValidator/INFO]: ========================================
+[20:22:22] [modloading-worker-0] [com.otectus.arsnspells.util.StartupValidator/INFO]: OK Startup Validation: PASSED
+[20:22:22] [modloading-worker-0] [com.otectus.arsnspells.util.StartupValidator/INFO]: ========================================
+[20:22:22] [modloading-worker-0] [KubeJS/INFO]: Loaded common.properties
+[20:22:22] [modloading-worker-0] [KubeJS/INFO]: Loaded dev.properties
+[20:22:22] [modloading-worker-0] [KubeJS/INFO]: Looking for KubeJS plugins...
+[20:22:22] [modloading-worker-0] [KubeJS/INFO]: Found plugin source kubejs
+[20:22:22] [modloading-worker-0] [KubeJS/WARN]: Plugin dev.latvian.mods.kubejs.integration.forge.gamestages.GameStagesIntegration does not have required mod gamestages loaded, skipping
+[20:22:22] [modloading-worker-0] [KubeJS/INFO]: Found plugin source irons_spells_js
+[20:22:22] [modloading-worker-0] [dev.architectury.networking.forge.NetworkManagerImpl/INFO]: Registering S2C receiver with id architectury:sync_ids
+[20:22:22] [modloading-worker-0] [dev.architectury.networking.forge.NetworkManagerImpl/INFO]: Registering C2S receiver with id architectury:sync_ids
+[20:22:22] [modloading-worker-0] [KubeJS/WARN]: Plugin com.squoshi.irons_spells_js.compat.entityjs.EntityJSPlugin does not have required mod entityjs loaded, skipping
+[20:22:22] [modloading-worker-0] [KubeJS/INFO]: Done in 489.0 ms
+[20:22:22] [modloading-worker-0] [Rhino Script Remapper/INFO]: Loading Rhino Minecraft remapper...
+[20:22:22] [modloading-worker-0] [irons_spells_js/INFO]: Postponing IronSpells server config...
+[20:22:22] [modloading-worker-0] [dev.latvian.mods.rhino.mod.util.RhinoProperties/INFO]: Rhino properties loaded.
+[20:22:22] [modloading-worker-0] [Rhino Script Remapper/INFO]: Loading mappings for 1.20.1
+[20:22:23] [modloading-worker-0] [Rhino Script Remapper/INFO]: Done in 0.086 s
+[20:22:23] [modloading-worker-0] [KubeJS Startup/INFO]: example.js#5: Hello, World! (Loaded startup scripts)
+[20:22:23] [modloading-worker-0] [KubeJS Startup/INFO]: Loaded script startup_scripts:example.js in 0.118 s
+[20:22:23] [modloading-worker-0] [KubeJS Startup/INFO]: Loaded 1/1 KubeJS startup scripts in 0.669 s with 0 errors and 0 warnings
+[20:22:23] [modloading-worker-0] [KubeJS Client/INFO]: example.js#5: Hello, World! (Loaded client scripts)
+[20:22:23] [modloading-worker-0] [KubeJS Client/INFO]: Loaded script client_scripts:example.js in 0.0 s
+[20:22:23] [modloading-worker-0] [KubeJS Client/INFO]: Loaded 1/1 KubeJS client scripts in 0.018 s with 0 errors and 0 warnings
+[20:22:23] [modloading-worker-0] [dev.architectury.networking.forge.NetworkManagerImpl/INFO]: Registering C2S receiver with id kubejs:send_data_from_client
+[20:22:23] [modloading-worker-0] [dev.architectury.networking.forge.NetworkManagerImpl/INFO]: Registering S2C receiver with id kubejs:send_data_from_server
+[20:22:23] [modloading-worker-0] [dev.architectury.networking.forge.NetworkManagerImpl/INFO]: Registering S2C receiver with id kubejs:paint
+[20:22:23] [modloading-worker-0] [dev.architectury.networking.forge.NetworkManagerImpl/INFO]: Registering S2C receiver with id kubejs:add_stage
+[20:22:23] [modloading-worker-0] [dev.architectury.networking.forge.NetworkManagerImpl/INFO]: Registering S2C receiver with id kubejs:remove_stage
+[20:22:23] [modloading-worker-0] [dev.architectury.networking.forge.NetworkManagerImpl/INFO]: Registering S2C receiver with id kubejs:sync_stages
+[20:22:23] [modloading-worker-0] [dev.architectury.networking.forge.NetworkManagerImpl/INFO]: Registering C2S receiver with id kubejs:first_click
+[20:22:23] [modloading-worker-0] [dev.architectury.networking.forge.NetworkManagerImpl/INFO]: Registering S2C receiver with id kubejs:toast
+[20:22:23] [modloading-worker-0] [dev.architectury.networking.forge.NetworkManagerImpl/INFO]: Registering S2C receiver with id kubejs:reload_startup_scripts
+[20:22:23] [modloading-worker-0] [dev.architectury.networking.forge.NetworkManagerImpl/INFO]: Registering S2C receiver with id kubejs:display_server_errors
+[20:22:23] [modloading-worker-0] [dev.architectury.networking.forge.NetworkManagerImpl/INFO]: Registering S2C receiver with id kubejs:display_client_errors
+[20:22:25] [Render thread] [net.minecraft.server.packs.resources.ReloadableResourceManager/INFO]: Reloading ResourceManager: vanilla, mod_resources, KubeJS Resource Pack [assets]
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Configuration file C:\Users\iancn\AppData\Roaming\ModrinthApp\profiles\irons nouveau\config\curios-client.toml is not correct. Correcting
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key client was corrected from null to its default, SimpleCommentedConfig:{}.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key client.renderCurios was corrected from null to its default, true.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key client.enableButton was corrected from null to its default, true.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key client.buttonXOffset was corrected from null to its default, 0.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key client.buttonYOffset was corrected from null to its default, 0.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key client.creativeButtonXOffset was corrected from null to its default, 0.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key client.creativeButtonYOffset was corrected from null to its default, 0.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key client.buttonCorner was corrected from null to its default, TOP_LEFT.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Configuration file C:\Users\iancn\AppData\Roaming\ModrinthApp\profiles\irons nouveau\config\forge-client.toml is not correct. Correcting
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key client was corrected from null to its default, SimpleCommentedConfig:{}.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key client.alwaysSetupTerrainOffThread was corrected from null to its default, false.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key client.experimentalForgeLightPipelineEnabled was corrected from null to its default, false.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key client.showLoadWarnings was corrected from null to its default, true.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key client.useCombinedDepthStencilAttachment was corrected from null to its default, false.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key client.compressLanIPv6Addresses was corrected from null to its default, true.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key client.calculateAllNormals was corrected from null to its default, false.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key client.stabilizeDirectionGetNearest was corrected from null to its default, true.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key client.allowMipmapLowering was corrected from null to its default, false.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Configuration file C:\Users\iancn\AppData\Roaming\ModrinthApp\profiles\irons nouveau\config\ars_nouveau-client.toml is not correct. Correcting
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key lights was corrected from null to its default, SimpleCommentedConfig:{}.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key lights.showSupporterMessage was corrected from null to its default, true.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key lights.lightsEnabled was corrected from null to its default, false.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key lights.touchLightLuminance was corrected from null to its default, 8.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key lights.touchLightDuration was corrected from null to its default, 8.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key lights.entity_lights was corrected from null to its default, [minecraft:blaze=10, ars_nouveau:orbit=15, ars_nouveau:linger=15, ars_nouveau:spell_proj=15, minecraft:magma_cube=8, ars_nouveau:flying_item=10, minecraft:spectral_arrow=8, ars_nouveau:follow_proj=10].
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key lights.item_lights was corrected from null to its default, [minecraft:redstone_torch=10, minecraft:soul_lantern=12, minecraft:glow_ink_sac=10, minecraft:verdant_froglight=15, minecraft:blaze_rod=10, minecraft:shroomlight=10, minecraft:lantern=14, minecraft:soul_torch=10, minecraft:glow_berries=8, minecraft:glowstone_dust=8, minecraft:pearlescent_froglight=15, minecraft:nether_star=14, minecraft:glowstone=15, minecraft:torch=14, minecraft:ochre_froglight=15, minecraft:lava_bucket=15].
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key overlays was corrected from null to its default, SimpleCommentedConfig:{}.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key overlays.xTooltip was corrected from null to its default, 20.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key overlays.yTooltip was corrected from null to its default, 0.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key overlays.xManaBar was corrected from null to its default, 0.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key overlays.yManaBar was corrected from null to its default, 0.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key overlays.showRecipeBook was corrected from null to its default, true.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key overlays.informLights was corrected from null to its default, true.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key overlays.toggleSelectionHUD was corrected from null to its default, true.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key misc was corrected from null to its default, SimpleCommentedConfig:{}.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key misc.no_end_portal_render was corrected from null to its default, false.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key misc.disable_skyweave was corrected from null to its default, false.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key misc.glyphTooltips was corrected from null to its default, true.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key misc.gui_transparency was corrected from null to its default, true.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key misc.opaque_particles was corrected from null to its default, false.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Configuration file C:\Users\iancn\AppData\Roaming\ModrinthApp\profiles\irons nouveau\config\irons_spellbooks-client.toml is not correct. Correcting
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key UI was corrected from null to its default, SimpleCommentedConfig:{}.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key UI.ManaBar was corrected from null to its default, SimpleCommentedConfig:{}.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key UI.ManaBar.manaBarDisplay was corrected from null to its default, Contextual.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key UI.ManaBar.manaBarXOffset was corrected from null to its default, 0.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key UI.ManaBar.manaBarYOffset was corrected from null to its default, 0.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key UI.ManaBar.manaBarTextVisible was corrected from null to its default, true.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key UI.ManaBar.manaBarAnchor was corrected from null to its default, Hunger.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key UI.ManaBar.manaTextXOffset was corrected from null to its default, 0.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key UI.ManaBar.manaTextYOffset was corrected from null to its default, 0.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key UI.SpellBar was corrected from null to its default, SimpleCommentedConfig:{}.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key UI.SpellBar.spellBarDisplay was corrected from null to its default, Always.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key UI.SpellBar.spellBarXOffset was corrected from null to its default, 0.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key UI.SpellBar.spellBarYOffset was corrected from null to its default, 0.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key UI.SpellBar.spellBarAnchor was corrected from null to its default, Hotbar.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key UI.RecastOverlay was corrected from null to its default, SimpleCommentedConfig:{}.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key UI.RecastOverlay.recastAnchor was corrected from null to its default, TopCenter.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key UI.RecastOverlay.recastXOffset was corrected from null to its default, 0.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key UI.RecastOverlay.recastYOffset was corrected from null to its default, 0.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key UI.SpellWheel was corrected from null to its default, SimpleCommentedConfig:{}.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key UI.SpellWheel.ignoreGuiScale was corrected from null to its default, false.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key UI.SpellWheel.ignoreGuiScaleSizeMultiplier was corrected from null to its default, 1.0.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key Animations was corrected from null to its default, SimpleCommentedConfig:{}.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key Animations.showFirstPersonArms was corrected from null to its default, true.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key Animations.showFirstPersonItems was corrected from null to its default, true.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key Renderers was corrected from null to its default, SimpleCommentedConfig:{}.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key Renderers.replaceGhastFireballs was corrected from null to its default, true.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key Renderers.replaceBlazeFireballs was corrected from null to its default, true.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key Music was corrected from null to its default, SimpleCommentedConfig:{}.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key Music.enableBossMusic was corrected from null to its default, true.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key Misc was corrected from null to its default, SimpleCommentedConfig:{}.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key Misc.shieldParticleCollisions was corrected from null to its default, true.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key Summons was corrected from null to its default, SimpleCommentedConfig:{}.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key Summons.ownedSummonsGlow was corrected from null to its default, true.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key Summons.summonGlowColor was corrected from null to its default, 0xAAFFAA.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Configuration file C:\Users\iancn\AppData\Roaming\ModrinthApp\profiles\irons nouveau\config\curios-common.toml is not correct. Correcting
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key slots was corrected from null to its default, [].
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Configuration file C:\Users\iancn\AppData\Roaming\ModrinthApp\profiles\irons nouveau\config\ars_nouveau-common.toml is not correct. Correcting
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key general was corrected from null to its default, SimpleCommentedConfig:{}.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key general.dimensionBlacklist was corrected from null to its default, [].
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key general.spawnBook was corrected from null to its default, true.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key general.sylphManaCost was corrected from null to its default, 250.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key general.whirlisprigProgress was corrected from null to its default, 250.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key general.hunterHuntsAnimals was corrected from null to its default, false.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key general.stalkerHuntsAnimals was corrected from null to its default, false.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key general.defenderHuntsAnimals was corrected from null to its default, false.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key general.destructiveDiveBomb was corrected from null to its default, true.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key general.archwoodForest was corrected from null to its default, 2.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key general.bookwyrmLimit was corrected from null to its default, 8.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key drygmy_production was corrected from null to its default, SimpleCommentedConfig:{}.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key drygmy_production.drygmyManaCost was corrected from null to its default, 1000.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key drygmy_production.drygmyMaxProgress was corrected from null to its default, 20.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key drygmy_production.drygmyUniqueBonus was corrected from null to its default, 2.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key drygmy_production.drygmyBaseItems was corrected from null to its default, 1.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key drygmy_production.drygmyQuantityCap was corrected from null to its default, 5.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key item was corrected from null to its default, SimpleCommentedConfig:{}.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key item.spawnTomes was corrected from null to its default, true.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key item.jumpRingCost was corrected from null to its default, 30.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key block was corrected from null to its default, SimpleCommentedConfig:{}.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key block.melderInputCost was corrected from null to its default, 200.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key block.melderOutput was corrected from null to its default, 100.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key block.melderSourceCost was corrected from null to its default, 300.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key block.enchantedFlaskCap was corrected from null to its default, 255.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key debug was corrected from null to its default, SimpleCommentedConfig:{}.
+[20:22:25] [modloading-worker-0] [net.minecraftforge.common.ForgeConfigSpec/WARN]: Incorrect key debug.maxLogEvents was corrected from null to its default, 100.
+[20:22:25] [Render thread] [KubeJS Client/INFO]: Client resource reload complete!
+[20:22:25] [Forge Version Check] [net.minecraftforge.fml.VersionChecker/INFO]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[20:22:25] [Worker-Main-15] [net.minecraft.client.gui.font.providers.UnihexProvider/INFO]: Found unifont_all_no_pua-15.0.06.hex, loading
+[20:22:25] [Render thread] [com.otectus.arsnspells.bridge.BridgeManager/INFO]: ========================================
+[20:22:25] [Render thread] [com.otectus.arsnspells.bridge.BridgeManager/INFO]: Ars 'n' Spells - Mana Bridge Initialization
+[20:22:25] [Render thread] [com.otectus.arsnspells.bridge.BridgeManager/INFO]: ========================================
+[20:22:25] [Render thread] [com.otectus.arsnspells.bridge.BridgeManager/INFO]: Iron's Spellbooks Detected: true
+[20:22:25] [Render thread] [com.otectus.arsnspells.bridge.BridgeManager/INFO]: Mana Unification Mode: iss_primary
+[20:22:25] [Render thread] [com.otectus.arsnspells.bridge.BridgeManager/INFO]: Mode Description: Iron's Spellbooks is the primary mana source
+[20:22:25] [Render thread] [com.otectus.arsnspells.bridge.BridgeManager/INFO]: Primary Bridge: IRONS_SPELLS
+[20:22:25] [Render thread] [com.otectus.arsnspells.bridge.BridgeManager/INFO]: Secondary Bridge: ARS_NATIVE
+[20:22:25] [Render thread] [com.otectus.arsnspells.bridge.BridgeManager/INFO]: Mana Unification Enabled: true
+[20:22:25] [Render thread] [com.otectus.arsnspells.bridge.BridgeManager/INFO]: NOTE: Changing mana_unification_mode requires a game restart.
+[20:22:25] [Render thread] [com.otectus.arsnspells.bridge.BridgeManager/INFO]: ========================================
+[20:22:25] [Render thread] [com.otectus.arsnspells.ArsNSpells/INFO]: OK Packet handler registered
+[20:22:25] [Render thread] [com.otectus.arsnspells.ArsNSpells/INFO]: OK Rituals registered
+[20:22:25] [Worker-Main-5] [net.minecraft.client.renderer.texture.SpriteContents/WARN]: Unused frames in sprite irons_spellbooks:item/upgrade_orb_ender: [1, 5, 6, 7]
+[20:22:25] [Worker-Main-13] [net.minecraft.client.renderer.texture.SpriteContents/WARN]: Unused frames in sprite irons_spellbooks:item/energized_core_energy: [11]
+[20:22:26] [Worker-Main-1] [com.otectus.arsnspells.client.ArsNSpellsClient/INFO]: Initializing Ars 'n' Spells client-side features
+[20:22:26] [Worker-Main-1] [com.otectus.arsnspells.client.ArsNSpellsClient/INFO]: Config screen registered successfully
+[20:22:26] [Worker-Main-1] [com.otectus.arsnspells.client.ArsNSpellsClient/INFO]: Client-side initialization complete
+[20:22:26] [Forge Version Check] [net.minecraftforge.fml.VersionChecker/INFO]: [forge] Found status: AHEAD Current: 47.4.20 Target: null
+[20:22:26] [Worker-Main-12] [net.minecraft.client.resources.model.ModelBakery/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=east,floor=true,level=1,roof=true'
+[20:22:26] [Worker-Main-12] [net.minecraft.client.resources.model.ModelBakery/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=east,floor=true,level=0,roof=true'
+[20:22:26] [Worker-Main-12] [net.minecraft.client.resources.model.ModelBakery/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=east,floor=true,level=3,roof=true'
+[20:22:26] [Worker-Main-12] [net.minecraft.client.resources.model.ModelBakery/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=north,floor=true,level=10,roof=true'
+[20:22:26] [Worker-Main-12] [net.minecraft.client.resources.model.ModelBakery/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=north,floor=true,level=11,roof=true'
+[20:22:26] [Worker-Main-12] [net.minecraft.client.resources.model.ModelBakery/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=north,floor=true,level=9,roof=true'
+[20:22:26] [Worker-Main-12] [net.minecraft.client.resources.model.ModelBakery/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=east,floor=true,level=2,roof=true'
+[20:22:26] [Worker-Main-12] [net.minecraft.client.resources.model.ModelBakery/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=east,floor=true,level=7,roof=true'
+[20:22:26] [Worker-Main-12] [net.minecraft.client.resources.model.ModelBakery/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=north,floor=true,level=4,roof=true'
+[20:22:26] [Worker-Main-12] [net.minecraft.client.resources.model.ModelBakery/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=east,floor=true,level=8,roof=true'
+[20:22:26] [Worker-Main-12] [net.minecraft.client.resources.model.ModelBakery/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=north,floor=true,level=14,roof=true'
+[20:22:26] [Worker-Main-12] [net.minecraft.client.resources.model.ModelBakery/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=east,floor=true,level=12,roof=true'
+[20:22:26] [Worker-Main-12] [net.minecraft.client.resources.model.ModelBakery/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=east,floor=true,level=13,roof=true'
+[20:22:26] [Worker-Main-12] [net.minecraft.client.resources.model.ModelBakery/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=north,floor=true,level=13,roof=true'
+[20:22:26] [Worker-Main-12] [net.minecraft.client.resources.model.ModelBakery/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=north,floor=true,level=3,roof=true'
+[20:22:26] [Worker-Main-12] [net.minecraft.client.resources.model.ModelBakery/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=east,floor=true,level=14,roof=true'
+[20:22:26] [Worker-Main-12] [net.minecraft.client.resources.model.ModelBakery/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=east,floor=true,level=11,roof=true'
+[20:22:26] [Worker-Main-12] [net.minecraft.client.resources.model.ModelBakery/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=north,floor=true,level=2,roof=true'
+[20:22:26] [Worker-Main-12] [net.minecraft.client.resources.model.ModelBakery/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=north,floor=true,level=5,roof=true'
+[20:22:26] [Worker-Main-12] [net.minecraft.client.resources.model.ModelBakery/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=east,floor=true,level=15,roof=true'
+[20:22:26] [Worker-Main-12] [net.minecraft.client.resources.model.ModelBakery/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=east,floor=true,level=9,roof=true'
+[20:22:26] [Worker-Main-12] [net.minecraft.client.resources.model.ModelBakery/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=north,floor=true,level=15,roof=true'
+[20:22:26] [Worker-Main-12] [net.minecraft.client.resources.model.ModelBakery/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=east,floor=true,level=6,roof=true'
+[20:22:26] [Worker-Main-12] [net.minecraft.client.resources.model.ModelBakery/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=north,floor=true,level=12,roof=true'
+[20:22:26] [Worker-Main-12] [net.minecraft.client.resources.model.ModelBakery/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=north,floor=true,level=8,roof=true'
+[20:22:26] [Worker-Main-12] [net.minecraft.client.resources.model.ModelBakery/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=north,floor=true,level=0,roof=true'
+[20:22:26] [Worker-Main-12] [net.minecraft.client.resources.model.ModelBakery/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=north,floor=true,level=7,roof=true'
+[20:22:26] [Worker-Main-12] [net.minecraft.client.resources.model.ModelBakery/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=east,floor=true,level=4,roof=true'
+[20:22:26] [Worker-Main-12] [net.minecraft.client.resources.model.ModelBakery/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=east,floor=true,level=5,roof=true'
+[20:22:26] [Worker-Main-12] [net.minecraft.client.resources.model.ModelBakery/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=north,floor=true,level=6,roof=true'
+[20:22:26] [Worker-Main-12] [net.minecraft.client.resources.model.ModelBakery/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=east,floor=true,level=10,roof=true'
+[20:22:26] [Worker-Main-12] [net.minecraft.client.resources.model.ModelBakery/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=north,floor=true,level=1,roof=true'
+[20:22:26] [Worker-Main-12] [net.minecraft.client.resources.model.ModelBakery/WARN]: Unable to load model: 'ars_n_spells:spell_uninscription#inventory' referenced from: ars_n_spells:spell_uninscription#inventory: java.io.FileNotFoundException: ars_n_spells:models/item/spell_uninscription.json
+[20:22:26] [Worker-Main-12] [net.minecraft.client.resources.model.ModelBakery/WARN]: Unable to load model: 'ars_n_spells:spell_transcription#inventory' referenced from: ars_n_spells:spell_transcription#inventory: java.io.FileNotFoundException: ars_n_spells:models/item/spell_transcription.json
+[20:22:26] [Worker-Main-12] [net.minecraft.client.resources.model.ModelBakery/WARN]: Unable to load model: 'irons_spellbooks:item/template_open_spell_book_model' referenced from: irons_spellbooks:item/template_open_spell_book_model: java.io.FileNotFoundException: irons_spellbooks:models/item/template_open_spell_book_model.json
+[20:22:27] [Worker-Main-12] [net.minecraft.client.resources.model.ModelManager/WARN]: Missing textures in model ars_nouveau:redstone_relay#facing=east,power=8:
+    minecraft:textures/atlas/blocks.png:ars_nouveau:blocks/agronomic_sourcelink
+[20:22:27] [Worker-Main-12] [irons_spells_js/INFO]: Registering spells on Config File...
+[20:22:27] [Worker-Main-12] [io.redspace.ironsspellbooks.IronsSpellbooks/INFO]: Got IMC []
+[20:22:28] [Render thread] [net.minecraft.client.sounds.SoundEngine/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[20:22:28] [Render thread] [net.minecraft.client.sounds.SoundEngine/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[20:22:28] [Render thread] [net.minecraft.client.sounds.SoundEngine/WARN]: Missing sound for event: irons_spellbooks:entity.generic.swing_weird
+[20:22:28] [Render thread] [net.minecraft.client.sounds.SoundEngine/WARN]: Missing sound for event: irons_spellbooks:entity.dead_king.music.drum_loop
+[20:22:28] [Render thread] [com.mojang.blaze3d.audio.Library/INFO]: OpenAL initialized on device OpenAL Soft on Headphones (JBL Tune 520BT)
+[20:22:28] [Render thread] [net.minecraft.client.sounds.SoundEngine/INFO]: Sound engine started
+[20:22:28] [Render thread] [net.minecraft.client.renderer.texture.TextureAtlas/INFO]: Created: 2048x1024x4 minecraft:textures/atlas/blocks.png-atlas
+[20:22:28] [Render thread] [net.minecraft.client.renderer.texture.TextureAtlas/INFO]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[20:22:28] [Render thread] [net.minecraft.client.renderer.texture.TextureAtlas/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[20:22:28] [Render thread] [net.minecraft.client.renderer.texture.TextureAtlas/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[20:22:28] [Render thread] [net.minecraft.client.renderer.texture.TextureAtlas/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[20:22:28] [Render thread] [net.minecraft.client.renderer.texture.TextureAtlas/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[20:22:28] [Render thread] [net.minecraft.client.renderer.texture.TextureAtlas/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[20:22:28] [Render thread] [net.minecraft.client.renderer.texture.TextureAtlas/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[20:22:28] [Render thread] [net.minecraft.client.renderer.texture.TextureAtlas/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[20:22:28] [Render thread] [net.minecraft.client.renderer.ShaderInstance/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[20:22:29] [Render thread] [net.minecraft.client.renderer.texture.TextureAtlas/INFO]: Created: 512x512x0 minecraft:textures/atlas/particles.png-atlas
+[20:22:29] [Render thread] [net.minecraft.client.renderer.texture.TextureAtlas/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[20:22:29] [Render thread] [net.minecraft.client.renderer.texture.TextureAtlas/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[20:22:35] [Render thread] [net.minecraft.client.Minecraft/INFO]: Stopping!
+
+# Process exited with status: exit code: 0
